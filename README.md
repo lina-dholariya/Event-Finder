@@ -40,6 +40,13 @@ A Flutter-based mobile application that helps users discover and attend events h
 - **OpenStreetMap** (via `flutter_map`)
 - **Geolocator** (for user location)
 
+<p align="center">
+  <img src="WhatsApp Image 2025-04-24 at 20.22.30_8c7754fe.jpg" alt="Page 1" width="250" style="margin-right: 40px;" />
+  <img src="WhatsApp Image 2025-04-24 at 20.23.06_f0ac8fac.jpg" alt="Home Page" width="250" style="margin-right: 40px;" />
+  <img src="WhatsApp Image 2025-04-24 at 20.23.39_f3ab21d7.jpg" alt="Other Page" width="250" style="margin-right: 20px;" />
+</p>
+
+
 
 
 
